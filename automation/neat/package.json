@@ -1,7 +1,6 @@
 {
-  "name": Neat Download Manager",
+  "Name":"Nead Download Manager",
   "version": "1.4.24",
   "description": "A sample package",
-  "author": "Javad Motallebi  ",
   "license": "https://neatdownloadmanager.com/index.php/en/about"
 }
