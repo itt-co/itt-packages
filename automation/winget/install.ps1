@@ -2,7 +2,7 @@ $ErrorActionPreference = 'Stop'
 
 $packageArgs = @{
     packageName     = 'winget'
-    dependencies    = @("msvcLibs","msuixaml")
+    dependencies    = @("msvclibs","msuixaml")
     fileType        = 'msixbundle'
     url             = 'https://aka.ms/getwinget'
     url64           = 'https://aka.ms/getwinget'
