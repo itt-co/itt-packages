@@ -2,7 +2,7 @@ $ErrorActionPreference = 'Stop'
 
 $packageArgs = @{
     packageName    = 'selfishnet'
-    fileType       = 'zip'
+    fileType       = 'msi'
     url            = 'https://github.com/nov0caina/SelfishNetV3/releases/download/SelfishNetV3.0.0/SelfishNetV3.0.0_Installer.zip'
     url64          = 'https://github.com/nov0caina/SelfishNetV3/releases/download/SelfishNetV3.0.0/SelfishNetV3.0.0_Installer.zip'
     installerName  = 'SelfishNetV3_Installer.msi'
